@@ -200,6 +200,7 @@ begin
     Dictionary.AddPair('Филиппины', 'Манила');
     Dictionary.AddPair('Финляндия', 'Хельсинки');
     Dictionary.AddPair('Франция', 'Париж');
+    Dictionary.AddPair('Французская Гвиана', 'Кайенна');
     Dictionary.AddPair('Хорватия', 'Загреб');
     Dictionary.AddPair('Центрально-африканская республика', 'Банги');
     Dictionary.AddPair('Чад', 'Нджамена');
